@@ -1,0 +1,1 @@
+# Aseprite Official English Standard Mapping
